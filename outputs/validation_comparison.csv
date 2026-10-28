@@ -1,0 +1,8 @@
+,validation_error
+Random forest,0.2312
+Gradient boosting,0.2328
+LightGBM,0.2332
+XGBoost,0.2337
+Ridge regression,0.2549
+4-week average,0.29
+Last week's sales,0.4016

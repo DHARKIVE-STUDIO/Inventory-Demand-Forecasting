@@ -1,0 +1,18 @@
+,what_it_is,correlation_with_next_week_sales
+lag1,This week's sales,0.521
+lag2,Sales one week ago,0.735
+lag3,Sales two weeks ago,0.647
+lag4,Sales three weeks ago,0.67
+avg4,Average sales over the last 4 weeks,0.763
+avg8,Average sales over the last 8 weeks,0.773
+std4,Spread of sales over the last 4 weeks,0.462
+last_year,Sales in the same week last year,0.657
+price_ratio,Next week's planned price relative to normal,-0.218
+next_promo,Next week's planned promotion (0 or 1),0.218
+next_holiday,Next week is a festival week (0 or 1),-0.024
+sin_week,"Week of year, sine part",0.022
+cos_week,"Week of year, cosine part",-0.079
+cat_Beverages,Category flag (0 or 1),0.525
+cat_Dairy,Category flag (0 or 1),-0.245
+cat_Personal Care,Category flag (0 or 1),-0.378
+cat_Snacks,Category flag (0 or 1),0.071

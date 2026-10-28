@@ -1,0 +1,8 @@
+,error_rate,MAE_units,RMSE_units,better_than_last_week
+Last week's sales,0.5048,36.5205,54.5514,0.0
+4-week average,0.3483,25.1987,35.9155,0.31
+Ridge regression,0.2924,21.1512,30.0679,0.421
+Random forest,0.2779,20.1023,28.8702,0.45
+Gradient boosting,0.2771,20.0461,28.5824,0.451
+LightGBM,0.2791,20.1905,29.1548,0.447
+XGBoost,0.2817,20.3788,29.0439,0.442
